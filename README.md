@@ -188,5 +188,5 @@ This project demonstrates:
 
 # 💡13. Excel Dashboard 
 
-<img src="https://github.com/GauriPise/Hospital-Data-Analysis/blob/main/Picture1.png" width="1000"> <br> 
+<img src="https://github.com/GauriPise/Global-Superstore-Dashboard/blob/main/Screenshot 2026-04-18 171105.png" width="1000"> <br> 
 
